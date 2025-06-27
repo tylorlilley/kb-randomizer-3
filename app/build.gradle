@@ -8,8 +8,8 @@ android {
         applicationId "com.tylorlilley.kbrandomizer3"
         minSdkVersion 22
         targetSdkVersion 36
-        versionCode 1
-        versionName "1.0"
+        versionCode 5
+        versionName "2.0"
     }
     buildTypes {
         release {
