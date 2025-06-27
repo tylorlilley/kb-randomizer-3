@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_14d17ce2f9b8de6d4525641fd94d57eb3b7e8975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_47f0472cc2d678c77970ab9998d72c97b094d993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_42dd414af22105150688d8efb6862885010c3998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_d6d729016ff8e2d8de8a617d1e82ef687957fde9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_fd3753884d3e0bd2d4720e593e27ef6e0a73be39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_e89999c19714223c63515551f17580b34f2cd1ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_d86020d1f17f30b42a118db646529d57c25ec8b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Tylor\Documents\GitHub\KB_Randomizer\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_11c472ad754a0cd0bd0db3fa4771279093e0d8f7.jar" />
+    </item>
+
+</items>

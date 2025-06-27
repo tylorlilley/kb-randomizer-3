@@ -41,26 +41,26 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/KB-Randomizer-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/KB-Randomizer-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.androidTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-Randomizer-2.app.unitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/KB-randomizer-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/KB-randomizer-3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/KB-randomizer-3.app.unitTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/tylorlilley/kbrandomizer2/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/tylorlilley/kbrandomizer3/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/tylorlilley/kbrandomizer3/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/tylorlilley/kbrandomizer3/ApplicationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer2/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/AboutActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer2/BasicActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/BasicActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer2/BoardConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/BoardConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer2/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/BasicActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/BasicActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/BoardConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/BoardConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tylorlilley/kbrandomizer3/SettingsActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_about.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/tylorlilley/kbrandomizer2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/tylorlilley/kbrandomizer3/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/tylorlilley/kbrandomizer3/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/tylorlilley/kbrandomizer3/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
@@ -1904,10 +1904,6 @@
     ]
   }
 }]]></component>
-  <component name="PsdUISettings">
-    <option name="MODULE_TAB" value="Properties" />
-    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
-  </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />

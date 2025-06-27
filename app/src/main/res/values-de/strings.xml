@@ -1,0 +1,133 @@
+<resources>
+    <!-- General App Info -->
+    <string name="app_name">KB Randomizer</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_randomizer">Randomizer</string>
+    <string name="action_about">Über</string>
+    <string name="board_setup_label">Spielbrett-Aufbau:</string>
+    <string name="kingdom_cards_label">Kingdom-Karten:</string>
+    <string name="toggle_expansions_label">Wähle Erweiterungen:</string>
+    <string name="toggle_promos_label">Wähle Promos:</string>
+    <string name="promo_options_label">Promo Optionen:</string>
+    <string name="initialized">Initialisiert</string>
+    <string name="current_configuration">Aktuelle Konfiguration</string>
+    <string name="go_button">Los!</string>
+    <!-- Expansions -->
+    <string name="base_game">Basisspiel</string>
+    <string name="nomads">Nomads</string>
+    <string name="crossroads">Crossroads</string>
+    <string name="marshlands">Marshlands</string>
+    <string name="harvest">Harvest</string>
+    <string name="capitols">Kapitol</string>
+    <string name="caves">Höhlen</string>
+    <string name="island">Insel</string>
+    <string name="emperor_s_choice">Emperor\'s Choice</string>
+    <!-- Options -->
+    <string name="use_with_assigned_board">Bei zugeordnetem Quadranten</string>
+    <string name="use_with_emperor_s_choice">Bei zugeordnetem Erlasskarten</string>
+    <string name="always_use">Immer benutzen</string>
+    <!-- Board Attributes -->
+    <string name="capitol">Kapitol</string>
+    <string name="cave">Höhle</string>
+    <string name="volcano">Vulkan</string>
+    <string name="ferry">Fähre</string>
+    <string name="nomad_space_sword">Schwert</string>
+    <string name="nomad_space_relocation">Umsiedlung</string>
+    <string name="nomad_space_treasure">Schatz</string>
+    <string name="nomad_space_outpost">Vorposten</string>
+    <string name="nomad_space_grass">Gras</string>
+    <string name="nomad_space_forest">Wald</string>
+    <string name="nomad_space_flowers">Blumen</string>
+    <string name="nomad_space_desert">Wüste</string>
+    <string name="nomad_space_canyon">Canyon</string>
+    <string name="nomad_space_water">Wasser</string>
+    <string name="nomad_space_mountain">Berg</string>
+    <!-- Base Game -->
+    <string name="card_farmers">Bauern</string>
+    <string name="card_citizens">Bürger</string>
+    <string name="card_lords">Lords</string>
+    <string name="card_hermits">Einsiedler</string>
+    <string name="card_knights">Ritter</string>
+    <string name="card_discoverers">Entdecker</string>
+    <string name="card_workers">Arbeiter</string>
+    <string name="card_merchants">Händler</string>
+    <string name="card_miners">Bergleute</string>
+    <string name="card_fishermen">Fischer</string>
+    <string name="board_harbor">Hafen</string>
+    <string name="board_oracle">Orakel</string>
+    <string name="board_tavern">Taverne</string>
+    <string name="board_oasis">Oase</string>
+    <string name="board_farmland">Farm</string>
+    <string name="board_barn">Scheune</string>
+    <string name="board_tower">Turm</string>
+    <string name="board_paddock">Koppel</string>
+    <!-- Nomads -->
+    <string name="card_families">Familien</string>
+    <string name="card_ambassadors">Botschafter</string>
+    <string name="card_shepherds">Hirten</string>
+    <string name="board_quarry">Steinbruch</string>
+    <string name="board_caravan">Karawane</string>
+    <string name="board_gardens">Garten</string>
+    <string name="board_village">Dorf</string>
+    <!-- Crossroads -->
+    <string name="card_place_of_refuge">Zufluchtsort</string>
+    <string name="card_home_country">Heimatland</string>
+    <string name="card_road">Straße</string>
+    <string name="card_advance">Vormarsch</string>
+    <string name="card_compass_points">Himmelsrichtungen</string>
+    <string name="card_fortress">Festung</string>
+    <string name="board_lighthouse_and_foresters_lodge">Leuchtturm / Forsthaus</string>
+    <string name="board_barracks_and_crossroads">Kaserne / Kreuzung</string>
+    <string name="board_city_hall_and_fort">Rathaus / Außenposten</string>
+    <string name="board_wagon_and_monastery">Planwagen / Kloster</string>
+    <!-- Marshlands -->
+    <string name="card_geologists">Geologen</string>
+    <string name="card_messengers">Boten</string>
+    <string name="card_noblewomen">Adel</string>
+    <string name="card_vassals">Vasallen</string>
+    <string name="card_captains">Hauptmänner</string>
+    <string name="card_scouts">Späher</string>
+    <string name="board_temple">Tempel</string>
+    <string name="board_refuge">Hort</string>
+    <string name="board_canoe">Kanu</string>
+    <string name="board_fountain">Brunnen</string>
+    <!-- Harvest -->
+    <string name="card_harvest_1">Bürgermeister</string>
+    <string name="card_harvest_2">Landbesitzer</string>
+    <string name="card_harvest_3">Abenteurer</string>
+    <string name="card_harvest_4">Waldläufer</string>
+    <string name="card_harvest_5">Wirt</string>
+    <string name="card_harvest_6">Vagabund</string>
+    <string name="board_harvest_1">Späherhütte / Bergstation</string>
+    <string name="board_harvest_2">Bazar / Wassermühle</string>
+    <string name="board_harvest_3">Palisade / Universität</string>
+    <string name="board_harvest_4">Dom / Wachturm</string>
+    <!-- Promos -->
+    <string name="board_island_bridge">Hängebrücke</string>
+    <string name="board_island_treehouse">Baumhaus</string>
+    <!-- Emperor's Choice -->
+    <string name="card_emperor_s_choice_1">Kapitol</string>
+    <string name="card_emperor_s_choice_2">Höhlen</string>
+    <string name="card_emperor_s_choice_3">Insel</string>
+    <string name="card_emperor_s_choice_4">Vulkan</string>
+    <string name="card_emperor_s_choice_5">Fähre</string>
+    <string name="card_emperor_s_choice_6">Plateau</string>
+    <string name="card_emperor_s_choice_7">Spion Netzwerk</string>
+    <string name="card_emperor_s_choice_8">Mutterboden</string>
+    <!-- About Page -->
+    <string name="about_author_label">About the Author</string>
+    <string name="about_the_author">This app was created by Tylor Lilley. I am unaffiliated with Queen Games, and am simply a fan of Kingdom Builder who wanted to make this randomization tool for his own personal use. I have decided to release it for free in case there are other fans who would like to use it as well. If you\'d like to get in touch with me or play some of the video games I have created, please feel free to visit my website at tylorlilley.com. Special thanks to Frank Roitzsch for helping with the German translation!</string>
+    <string name="about_game_label">About the Game</string>
+    <string name="about_the_game">Kingdom Builder is a board game published by Queen Games and designed by Donald X. Vaccarino. It won the Spiel des Jahres, or Game of the Year, award in 2012. Since then, four expansions have been published for the game, and three promotional items have been produced.</string>
+    <string name="about_app_label">About the App</string>
+    <string name="about_the_app_1">This app can be used to randomize every aspect of the setup of a game of Kingdom Builder with the push of a single button. The boards and cards will be randomly chosen from among the ones availble in the enabled expansions. You can enable and disable a given expansion in the Settings menu. All boards and cards are color-coded to indicate which expansion they come from in order to facilitate locating the game component quickly and easily.</string>
+    <string name="about_the_app2">When setting up a game using this app, the \"↷\" symbol following a given board\'s name indicates the board is to be turned upside down in that position.</string>
+    <string name="about_expansions_label">Info for Using the Expansions</string>
+    <string name="about_the_app3">When using the Nomads expansion, the nomad spaces for a given board will also be randomized for you. The name of the chosen nomads tile will be listed after a \"-\" symbol following the given board\'s name. Boards with more than one nomad space will display a nomad tile to use for each space in this fashion. The names of the \"Grass Donation\", \"Desert Donation\", etc. tiles were shortened to just \"Grass\", \"Desert\", etc. in order to conserve needed space on the randomizer screen.</string>
+    <string name="about_the_app4">When using the Crossroads expansion alone, there will be no possible kingdom cards for the randomizer to select. This is not recommended by the games rules.</string>
+    <string name="about_the_app5">When using the Emperor\'s Choice promo, there will be an additional randomized decree card displayed. Some of these cards require the use of the other three promos. Officially, it is suggested that the other three promos are required to use this expansion. If any of the other promos are not selected in the app, their decree card will be skipped if it is drawn and thus cannot be chosen as the decree for that game. The decree card will be used to determine whether or not the other three promos are used if and only if the \"Use With Emperor\'s Choice\" selection is chosen. Otherwise, these three promos will be randomized using the other selected randomization setting, and only the decree cards that are not related to the earlier promos will be used.</string>
+    <string name="about_promos_label">Info for Using Promotional Items</string>
+    <string name="about_the_app6">When using the promotionNope, gal items, the \"Use With Assigned Board\" option defaults to being enabled. This will cause the randomizer to only use the promos when certain boards are used in the setup, as suggested by the game\'s designer, Donald X. Vaccarino. These boards are the Harbor and/or the Oracle board for the Capitols promo, the Tavern board for the Caves promo, and the Harbor and/or the Lighthouse board for the Island promo. Turning off this option in the Settings menu will instead allow the promos to be used randomly with any setup, but with the same relative frequency as when the promos were used with their assigned boards. To instead always include the enabled promos, enable the \"Always use\" option in the Settings menu. To instead allow the fourth promo, the Emperor\'s Choice, to determine which promos are used, enable the Emperor\'s Choice promo and then select the \"Use with Emperor\'s Choice\" option in the settings menu instead.</string>
+    <string name="about_the_app7">When using the Capitols promo, the randomizer will always assign both Capitols to an available spot among those on the selected boards if possible. These boards will be marked with \"- Capitol\" following the given board\'s name. Some boards have more than one castle on them. When these boards are used with the Capitols promo, it is possible for one, both, or neither Capitol to be placed on the same board. For this reason, the words (first), (second), or (both) will follow the added \"- Capitol\" for any boards where there are two castles present.</string>
+    <string name="about_the_app8">When using the Caves promo, the randomizer will always assign all four Caves to an available spot among those on the selected boards if possible. These boards will be marked with \"- Cave\" following the given board\'s name. The suggested rule for placing the cave is to place it on the first available mountain hex when scanning the right-side-up board from left-to-right and top-to-bottom that satisfies the condition of being more than two spaces away from any location, castle, nomad, palace, or silo spaces.</string>
+</resources>
